@@ -1,0 +1,173 @@
+*{
+  margin: 0 ;
+  padding: 0;
+
+}
+
+body{
+    background-color: black;
+  
+  }
+  
+
+
+
+
+  .navbar {
+    background-color: black !important;
+    padding-bottom: 2%;
+  
+  }
+
+  
+  .carousel-inner > .carousel-item > img {
+    width: 800px;
+    height: 600px; 
+  
+  }
+  
+
+
+
+  h1{
+  text-align: center;
+  color: #fff;
+  font-family: 'Times New Roman';
+  font-size: 55px;
+  border-bottom: #fff solid 2px;
+  }
+
+
+  .sobreNos{
+    text-align: left;
+  color: #fff;
+  font-family: 'Times New Roman';
+  padding-top: 10%;
+  padding-left: 3%;
+  }
+  .Image-sobre{
+ padding-left: 30%;
+ padding-top: 7%;
+ border-image: #fff solid 3px;
+  }
+
+.sobrenos{
+  color: #fff;
+  text-align: left;
+  width: 50%;
+  padding-left: 3%;
+}
+
+
+
+  h6{
+    border-bottom: solid 1px black;
+  }
+
+.col-13 h1 {
+  padding-top: 10%;
+}
+  
+
+
+
+
+.container-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+
+}
+
+.container-text .texto1{
+border-right:solid 1px #fff ;
+padding-right: 2%;
+padding-top: 5%;
+
+}
+
+.container-text .texto2{
+  border-left:solid 1px #fff ;
+  padding-left: 2%;
+  padding-top: 5%;
+  
+  }
+
+
+
+
+  .container-fluid{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    
+  }
+  
+  .col-lg-3{
+    padding-top: 5%;
+   
+  }
+  
+  .container .card{
+    padding: 2vh;
+  }
+
+
+  .botao-para-mais{
+    padding-top: 7%;
+font-family: Arial;
+  }
+
+  .btn-mais{
+    font-size: 32px;
+    color: black;
+  }
+
+footer{
+padding-top: 30%;
+margin-top: 0%;
+
+
+
+}
+p .img0{
+  text-align: center;
+  align-items: stretch;
+  margin-bottom: 5%;
+  color: #fff;
+  border: 2px solid #fff ;
+}
+
+p .img1{
+  text-align: left;
+  align-items: stretch;
+  margin-bottom: 5%;
+  color: #fff;
+  border: 2px solid #fff ;
+}
+
+p .img2{
+  text-align: center;
+  align-items: stretch;
+  margin-bottom: 5%;
+  color: #fff;
+  border: 2px solid #fff ;
+  ;
+}
+
+
+
+
+
+
+footer ul{
+  background-color: white;
+
+}
+
+.card-carousel{
+  background-color: #000000;
+  height: 20%;
+  height: 20%;
+}
